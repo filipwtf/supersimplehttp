@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-Create a new runy file
+Create a new ruby file
 
 ```rb
 require 'supersimplehttp'
