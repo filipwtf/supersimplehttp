@@ -1,3 +1,6 @@
 require 'supersimplehttp'
 
-Supersimplehttp::Server.new('localhost', 5000)
+port = 5000
+addr = 'localhost'
+
+server = Supersimplehttp::Server.new(addr, port) { "[Supersimplehttp] running on #{addr}:#{port}" }

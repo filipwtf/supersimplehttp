@@ -1,5 +1,6 @@
 # Supersimplehttp
 
+NOTE: This shouldn't be used in a real environment it's not secure
 Supper Simple HTTP is a simple HTTP server created in ruby. At it's current stage it has no real world use there are way better frameworks. I simple made this project to learn Ruby.
 
 ## Installation
@@ -39,7 +40,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/supersimplehttp.
+Bug reports and pull requests are welcome on GitHub at https://github.com/filipwtf/supersimplehttp.
 
 ## License
 
