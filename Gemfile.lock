@@ -1,0 +1,22 @@
+PATH
+  remote: .
+  specs:
+    supersimplehttp (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.14.2)
+    rake (10.5.0)
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+  bundler (~> 2.1.4)
+  minitest (~> 5.0)
+  rake (~> 10.0)
+  supersimplehttp!
+
+BUNDLED WITH
+   2.1.4

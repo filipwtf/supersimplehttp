@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-Create a new ruby file
+You can check out the example folder
+
+Create a new ruby file:
 
 ```rb
 require 'supersimplehttp'
